@@ -1,0 +1,74 @@
+[
+  {
+    "codigoReserva": 2247,
+    "clientes": [
+      {
+        "codigoDoCliente": 3750,
+        "telefone": "4",
+        "email": "",
+        "rua": "4",
+        "bairro": "4",
+        "numeroCasa": "44",
+        "cep": "4",
+        "cidade": "4",
+        "nome": "Jose",
+        "cpf": "3"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 8,
+        "tipoQuarto": "Luxo",
+        "capacidadeMaxima": 6,
+        "disponibilidade": false,
+        "precoPorNoite": 200.0
+      },
+      {
+        "numeroQuarto": 8,
+        "tipoQuarto": "Luxo",
+        "capacidadeMaxima": 6,
+        "disponibilidade": false,
+        "precoPorNoite": 200.0
+      }
+    ],
+    "dataCheckIn": "2023-05-01T12:00:00",
+    "dataCheckOut": "2023-05-03T23:00:00",
+    "numeroPessoas": 5
+  },
+  {
+    "codigoReserva": 8289,
+    "clientes": [
+      {
+        "codigoDoCliente": 3750,
+        "telefone": "4",
+        "email": "",
+        "rua": "4",
+        "bairro": "4",
+        "numeroCasa": "44",
+        "cep": "4",
+        "cidade": "4",
+        "nome": "Jose",
+        "cpf": "3"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 8,
+        "tipoQuarto": "Luxo",
+        "capacidadeMaxima": 6,
+        "disponibilidade": false,
+        "precoPorNoite": 200.0
+      },
+      {
+        "numeroQuarto": 8,
+        "tipoQuarto": "Luxo",
+        "capacidadeMaxima": 6,
+        "disponibilidade": false,
+        "precoPorNoite": 200.0
+      }
+    ],
+    "dataCheckIn": "2023-05-01T12:00:00",
+    "dataCheckOut": "2023-05-03T23:00:00",
+    "numeroPessoas": 5
+  }
+]

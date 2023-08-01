@@ -1,0 +1,157 @@
+[
+  {
+    "codigoReserva": 9536,
+    "valorDiaria": 900,
+    "valorAdicional": 1400,
+    "clientes": [
+      {
+        "codigoDoCliente": 125,
+        "telefone": "00-0000-0000",
+        "email": "00000@gmail.com",
+        "rua": "A",
+        "bairro": "A",
+        "numeroCasa": "00",
+        "cep": "0000-000",
+        "cidade": "DMT",
+        "nome": "Teresa Maria ",
+        "cpf": "000-000-000-00"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 1,
+        "tipoQuarto": "Comun",
+        "capacidadeMaxima": 4,
+        "disponibilidade": false,
+        "precoPorNoite": 100.0
+      }
+    ],
+    "dataCheckIn": "2023-07-01T00:00:00",
+    "dataCheckOut": "2023-07-10T23:59:00",
+    "numeroPessoas": 2
+  },
+  {
+    "codigoReserva": 5766,
+    "valorDiaria": 10000,
+    "valorAdicional": 0,
+    "clientes": [
+      {
+        "codigoDoCliente": 5514,
+        "telefone": "11-1111-1111",
+        "email": "1111111@gmai.com",
+        "rua": "B",
+        "bairro": "B",
+        "numeroCasa": "111",
+        "cep": "1111-1111",
+        "cidade": "DMT",
+        "nome": "Raniele Alves ",
+        "cpf": "111-111-111-11"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 10,
+        "tipoQuarto": "Luxo",
+        "capacidadeMaxima": 8,
+        "disponibilidade": false,
+        "precoPorNoite": 500.0
+      }
+    ],
+    "dataCheckIn": "2023-07-11T00:00:00",
+    "dataCheckOut": "2023-07-31T23:59:00",
+    "numeroPessoas": 2
+  },
+  {
+    "codigoReserva": 6315,
+    "valorDiaria": 300,
+    "valorAdicional": 0,
+    "clientes": [
+      {
+        "codigoDoCliente": 125,
+        "telefone": "00-0000-0000",
+        "email": "00000@gmail.com",
+        "rua": "A",
+        "bairro": "A",
+        "numeroCasa": "00",
+        "cep": "0000-000",
+        "cidade": "DMT",
+        "nome": "Teresa Maria ",
+        "cpf": "000-000-000-00"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 4,
+        "tipoQuarto": "Comun",
+        "capacidadeMaxima": 4,
+        "disponibilidade": false,
+        "precoPorNoite": 150.0
+      }
+    ],
+    "dataCheckIn": "2023-07-01T00:00:00",
+    "dataCheckOut": "2023-07-03T23:59:00",
+    "numeroPessoas": 2
+  },
+  {
+    "codigoReserva": 652,
+    "valorDiaria": 0,
+    "valorAdicional": 100,
+    "clientes": [
+      {
+        "codigoDoCliente": 125,
+        "telefone": "00-0000-0000",
+        "email": "00000@gmail.com",
+        "rua": "A",
+        "bairro": "A",
+        "numeroCasa": "00",
+        "cep": "0000-000",
+        "cidade": "DMT",
+        "nome": "Teresa Maria ",
+        "cpf": "000-000-000-00"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 2,
+        "tipoQuarto": "Comun",
+        "capacidadeMaxima": 4,
+        "disponibilidade": false,
+        "precoPorNoite": 100.0
+      }
+    ],
+    "dataCheckIn": "2023-07-16T00:00:00",
+    "dataCheckOut": "2023-07-16T23:59:00",
+    "numeroPessoas": 2
+  },
+  {
+    "codigoReserva": 957,
+    "valorDiaria": 900,
+    "valorAdicional": 0,
+    "clientes": [
+      {
+        "codigoDoCliente": 9866,
+        "telefone": "00-00000-8888",
+        "email": "00000@gmail.com",
+        "rua": "0088",
+        "bairro": "00",
+        "numeroCasa": "0088",
+        "cep": "00000-000",
+        "cidade": "DMT",
+        "nome": "João Gabriel",
+        "cpf": "888-888-888-88"
+      }
+    ],
+    "quartos": [
+      {
+        "numeroQuarto": 7,
+        "tipoQuarto": "Luxo",
+        "capacidadeMaxima": 6,
+        "disponibilidade": false,
+        "precoPorNoite": 300.0
+      }
+    ],
+    "dataCheckIn": "2023-07-25T00:00:00",
+    "dataCheckOut": "2023-07-28T23:59:00",
+    "numeroPessoas": 2
+  }
+]

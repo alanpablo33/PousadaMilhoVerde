@@ -1,1 +1,62 @@
-[{"Cadastro:1843":"Codigo: 1843,Nome: Alan,CPF: 111,Telefone: 111,E-mail: 111,Rua: 111, Numero da Casa:111,Bairro: 111, Cidade: 111,CEP: 111"}]
+[
+  {
+    "codigoDoCliente": 125.0,
+    "telefone": "00-0000-0000",
+    "email": "00000@gmail.com",
+    "rua": "A",
+    "bairro": "A",
+    "numeroCasa": "00",
+    "cep": "0000-000",
+    "cidade": "DMT",
+    "nome": "Teresa Maria ",
+    "cpf": "000-000-000-00"
+  },
+  {
+    "codigoDoCliente": 5514.0,
+    "telefone": "11-1111-1111",
+    "email": "1111111@gmai.com",
+    "rua": "B",
+    "bairro": "B",
+    "numeroCasa": "111",
+    "cep": "1111-1111",
+    "cidade": "DMT",
+    "nome": "Raniele Alves ",
+    "cpf": "111-111-111-11"
+  },
+  {
+    "codigoDoCliente": 923.0,
+    "telefone": "33-3333-3333",
+    "email": "333333@gmailcom",
+    "rua": "D",
+    "bairro": "D",
+    "numeroCasa": "333",
+    "cep": "3333-3333",
+    "cidade": "DMT",
+    "nome": "Alan Pablo",
+    "cpf": "222-222-222-22"
+  },
+  {
+    "codigoDoCliente": 9866.0,
+    "telefone": "00-00000-8888",
+    "email": "00000@gmail.com",
+    "rua": "0088",
+    "bairro": "00",
+    "numeroCasa": "0088",
+    "cep": "00000-000",
+    "cidade": "DMT",
+    "nome": "João Gabriel",
+    "cpf": "888-888-888-88"
+  },
+  {
+    "codigoDoCliente": 3162,
+    "telefone": "88-8888-8888",
+    "email": "8",
+    "rua": "8",
+    "bairro": "8",
+    "numeroCasa": "8",
+    "cep": "8",
+    "cidade": "8",
+    "nome": "Carol",
+    "cpf": "889-999-663-22"
+  }
+]

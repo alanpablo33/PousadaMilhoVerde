@@ -1,1 +1,34 @@
-[{"Cadastro:611":"CODIGO: 611 ,Nome: Jose ,CPF: 777-777-777-777 ,LOGIN: jose ,SENHA: 12345"}]
+[
+  {
+    "idAdm": "admin",
+    "codigoDoUser": 8573.0,
+    "loginF": "p",
+    "senhaF": "p",
+    "codigoDoCliente": 0.0,
+    "telefone": "p",
+    "email": "p",
+    "rua": "p",
+    "bairro": "p",
+    "numeroCasa": "p",
+    "cep": "p",
+    "cidade": "p",
+    "nome": "p",
+    "cpf": "p"
+  },
+  {
+    "idAdm": "admin",
+    "codigoDoUser": 3903,
+    "loginF": "123",
+    "senhaF": "123",
+    "codigoDoCliente": 0,
+    "telefone": "55-55555-5555",
+    "email": "dgdgdgg@gmail.com",
+    "rua": "O",
+    "bairro": "Y",
+    "numeroCasa": "88",
+    "cep": "39100-000",
+    "cidade": "DMT",
+    "nome": "Eduardo Peli",
+    "cpf": "555-555-555-55"
+  }
+]
